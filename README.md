@@ -24,3 +24,6 @@ API ENDPOINTS:-
 
 EXAMPLE DATA:-
 Once the application is up and running, you can use Postman to interact with the bike service records through the API endpoints.
+
+
+NOTE!!!: Please follow the following path to read the files "**Adnan-Repo/bikeservicecompany/src/main/java/com/project/**"
